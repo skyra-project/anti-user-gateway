@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+.vs/
+.idea/
+dist/
+*.js
+*.js.map
+*.tsbuildinfo
+*.tgz
