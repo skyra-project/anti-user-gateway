@@ -29,5 +29,9 @@
     "eslint-config-bamboo": "^5.1.0",
     "klasa": "dirigeants/klasa#build",
     "typescript": "^3.9.5"
-  }
+  },
+  "files": [
+    "dist",
+    "!dist/tsconfig.tsbuildinfo"
+  ]
 }
