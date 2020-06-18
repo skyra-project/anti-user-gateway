@@ -1,4 +1,4 @@
-# `@skyra/anti-user-gateway`
+# @skyra/anti-user-gateway
 
 This is a plugin that can be used in both [klasa]/[settings] (0.5.0-dev) and
 [klasa]/[next] (0.6.0-dev).
